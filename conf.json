@@ -1,1 +1,2 @@
-{"logpath": "D:/Discord/chatlogs/Twitch/Channels/jakenbakelive"}
+# Change this variable to wherever you have chatterino store logs, and remove this comment.
+{"logpath": ""}
